@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import math
 
 st.title("Mortgage Repayments Calculator")
-print("Hellow World")
+print("Hello World")
 
 st.write("### Input Data")
 col1, col2 = st.columns(2)
